@@ -117,8 +117,6 @@ ${licenseChoice(response.licenseChoice)}
     ${response.testIns}
     
 ## Questions
-
-    // ${response.description}
     Do you have any questions? Please feel free to reach me on GitHub:
     https://github.com/${response.gitUsername}
     Or send me a message via email at:
